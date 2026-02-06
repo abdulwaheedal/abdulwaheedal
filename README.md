@@ -1,13 +1,13 @@
-# Hi there, I'm Faaiz! 👋
+# Hi, I'm Faaiz! 
 
-### 🚀 About Me
+### About Me
 I'm a passionate developer who loves building innovative solutions and learning new technologies!
 
-- 🔭 I'm currently working on **AI based Anomaly Detection System using System Logs**
-- 🌱 I'm currently learning **Computer Networks & Architecture**
-- 👯 I'm looking to collaborate on **Networking Projects**
-- 📫 How to reach me: **faaizfall@gmail.com**
-- ⚡ Fun fact: **I am into classical literature and history**
+-  I'm currently working on **AI based Anomaly Detection System using System Logs**
+-  I'm currently learning **Computer Networks & Architecture**
+-  I'm looking to collaborate on **Networking Projects**
+-  How to reach me: **faaizfall@gmail.com**
+-  When I am not coding **I might be reading classical literature or history**
 
 ---
 
